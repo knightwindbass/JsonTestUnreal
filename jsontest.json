@@ -2,17 +2,23 @@
   "User info": [
   {
     "ID_ITEM": "1",
-    "NAME_ITEM": "gold",
-    "VL_TS": 120,
-    "number": 123,
-    "c": "d"
+    "NAME_ITEM": "Gold",
+    "PRECIO_ITEM": 120,
+    "VENDEDOR": "Perrito",
+    "STOCK": 10,
+    "ID_MS": "ABCDE12345",
+    "ITEM_MS": "Lata",
+    "PRECIO_MS": 10
   },
   {
     "ID_ITEM": "2",
-    "NAME_ITEM": "silver",
-    "VL_TS": 120,
-    "number": 123,
-    "c": "d"
+    "NAME_ITEM": "Silver",
+    "PRECIO_ITEM": 120,
+    "VENDEDOR": "Gatito",
+    "STOCK": 5,
+    "ID_MS": "ABCDE12345",
+    "ITEM_MS": "Lata",
+    "PRECIO_MS": 10
   },
   ]
 }

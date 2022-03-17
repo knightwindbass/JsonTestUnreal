@@ -13,7 +13,7 @@
   {
     "ID_ITEM": "2",
     "NAME_ITEM": "Silver",
-    "PRECIO_ITEM": 120,
+    "PRECIO_ITEM": 500,
     "VENDEDOR": "Gatito",
     "STOCK": 5,
     "ID_MS": "ABCDE12345",

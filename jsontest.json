@@ -3,7 +3,7 @@
   {
     "ID_ITEM": "1",
     "NAME_ITEM": "Gold",
-    "PRECIO_ITEM": 300,
+    "PRECIO_ITEM": 200,
     "VENDEDOR": "Perrito",
     "STOCK": 10,
     "ID_MS": "ABCDE12345",

@@ -2,6 +2,7 @@
   "User info": [
   {
     "ID_ITEM": "1",
+    "STATUS_USER": "NEW",
     "NAME_ITEM": "Gold",
     "PRECIO_ITEM": 5,
     "VENDEDOR": "Birito Store",
@@ -12,6 +13,7 @@
   },
   {
     "ID_ITEM": "2",
+    "STATUS_USER": "OLD",
     "NAME_ITEM": "Silver",
     "PRECIO_ITEM": 10,
     "VENDEDOR": "Ralf Store",

@@ -1,6 +1,5 @@
   {
-  "Usuarios":
-  [
+  "Usuarios":  [
   {	
   "knightwindbass": [
     {
@@ -32,9 +31,7 @@
     "Id_Amigo_9": "none",
     "Id_Amigo_10": "none"
     }
-  ]
-},
-  {	
+  ],
   "leafar": [
     {
     "Nombre_Usr": "Rafael Saavedra",
@@ -70,3 +67,4 @@
 
 ]
   }
+  

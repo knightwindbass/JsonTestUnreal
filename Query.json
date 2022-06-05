@@ -37,7 +37,7 @@
     "Nombre_Usr": "Rafael Saavedra",
     "Password_Usr": "1234",
     "Status_Usr": "Old",
-    "Vendedor_Usr": "Ralf Store",
+    "Vendedor_Usr": "Birito Store",
     "Id_Vendedor": "00002",
     "Type_User": "estandar"
     },
@@ -62,7 +62,38 @@
     "Id_Amigo_9": "none",
     "Id_Amigo_10": "none"
     }
-  ]
+  ],
+    "galo": [
+    {
+    "Nombre_Usr": "Galo Saavedra",
+    "Password_Usr": "1234",
+    "Status_Usr": "Old",
+    "Vendedor_Usr": "Eva Store",
+    "Id_Vendedor": "00002",
+    "Type_User": "estandar"
+    },
+    {
+    "Id_Profile_behaivor": 1,
+    "Id_Custom_head": 1,
+    "Id_Cst_hd_acc": 1,
+    "Id_Custom_body": 1,
+    "Id_Custom_pants": 1,
+    "Id_Custom_boots": 1,
+    "Id_Custom_pet": 1
+    },
+    {
+    "Id_Amigo_1": "leafar",
+    "Id_Amigo_2": "none",
+    "Id_Amigo_3": "none",
+    "Id_Amigo_4": "none",
+    "Id_Amigo_5": "none",
+    "Id_Amigo_6": "none",
+    "Id_Amigo_7": "none",
+    "Id_Amigo_8": "none",
+    "Id_Amigo_9": "none",
+    "Id_Amigo_10": "none"
+    }
+  ],
 }
 
 ]

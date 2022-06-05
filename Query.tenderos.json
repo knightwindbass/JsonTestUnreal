@@ -452,9 +452,9 @@
 		"CantidadMaxparainicarCanje": 50,
 		"MallaEstatica": "StaticMesh'/Game/MisAssets/3D_Objetos/PapelH.PapelH'"
 	}
-    ]
-     },
-    {"RAFAELITO": 
+    ],
+    
+    "RAFAELITO": 
   [
 	{
 		"Name": "1",

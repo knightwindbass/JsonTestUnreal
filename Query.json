@@ -36,7 +36,7 @@
     {
     "Nombre_Usr": "Rafael Saavedra",
     "Password_Usr": "1234",
-    "Status_Usr": "New",
+    "Status_Usr": "Old",
     "Vendedor_Usr": "Ralf Store",
     "Id_Vendedor": "00002",
     "Type_User": "estandar"

@@ -1,36 +1,37 @@
-{	
-"knightwindbass": [
-{
-"Nombre_Usr": "Byron Saavedra",
-"Password_Usr": "0920319639",
-"Status_Usr": "New",
-"Vendedor_Usr": "Ralf Store",
-"Id_Vendedor": "00002"
-"Type_User": "estandar"
+[
+  {	
+  "knightwindbass": [
+    {
+    "Nombre_Usr": "Byron Saavedra",
+    "Password_Usr": "0920319639",
+    "Status_Usr": "New",
+    "Vendedor_Usr": "Ralf Store",
+    "Id_Vendedor": "00002",
+    "Type_User": "estandar"
+    },
+    {
+    "Id_Profile_behaivor": 1,
+    "Id_Custom_head": 1,
+    "Id_Cst_hd_acc": 1,
+    "Id_Custom_body": 1,
+    "Id_Custom_pants": 1,
+    "Id_Custom_boots": 1,
+    "Id_Custom_pet": 1
+    },
+    {
+    "Id_Amigo_1": "leafar",
+    "Id_Amigo_2": "none",
+    "Id_Amigo_3": "none",
+    "Id_Amigo_4": "none",
+    "Id_Amigo_5": "none",
+    "Id_Amigo_6": "none",
+    "Id_Amigo_7": "none",
+    "Id_Amigo_8": "none",
+    "Id_Amigo_9": "none",
+    "Id_Amigo_10": "none"
+    }
+  ]
 },
-{
-"Id_Profile_behaivor": 1,
-"Id_Custom_head": 1,
-"Id_Cst_hd_acc": 1,
-"Id_Custom_body": 1,
-"Id_Custom_pants": 1,
-"Id_Custom_boots": 1,
-"Id_Custom_pet": 1,
-},
-{
-"Id_Amigo_1": "leafar",
-"Id_Amigo_2": "none",
-"Id_Amigo_3": "none",
-"Id_Amigo_4": "none",
-"Id_Amigo_5": "none",
-"Id_Amigo_6": "none",
-"Id_Amigo_7": "none",
-"Id_Amigo_8": "none",
-"Id_Amigo_9": "none",
-"Id_Amigo_10": "none",
-},
-]
-}
 {	
 "leafar": [
 {
@@ -38,7 +39,7 @@
 "Password_Usr": "1234",
 "Status_Usr": "Old",
 "Vendedor_Usr": "Birito Store",
-"Id_Vendedor": "00001"
+"Id_Vendedor": "00001",
 "Type_User": "proveedor"
 },
 {
@@ -48,7 +49,7 @@
 "Id_Custom_body": 1,
 "Id_Custom_pants": 1,
 "Id_Custom_boots": 1,
-"Id_Custom_pet": 1,
+"Id_Custom_pet": 1
 },
 {
 "Id_Amigo_1": "leafar",
@@ -60,7 +61,9 @@
 "Id_Amigo_7": "none",
 "Id_Amigo_8": "none",
 "Id_Amigo_9": "none",
-"Id_Amigo_10": "none",
-},
+"Id_Amigo_10": "none"
+}
 ]
 }
+
+]

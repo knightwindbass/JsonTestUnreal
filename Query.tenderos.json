@@ -7,7 +7,7 @@
 		"Categoria": "Frutas",
 		"Nombre": "Manzana",
 		"Nombre Plural": "Manzanas",
-		"Breve Descripcion": "Rojas peruanas",
+		"Breve Descripcion": "Azules peruanas",
 		"Descripcion": "NSLOCTEXT(\"\", \"C3CA6DCC4DE64C85D8E2A98105D1F323\", \"Fruta con betacaroteno\")",
 		"Cantidad": 1,
 		"Icono": "Texture2D'/Game/MisAssets/Texturas/ItemsCanjeables/manzana-roja-texture.manzana-roja-texture'",

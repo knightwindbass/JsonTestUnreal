@@ -7,7 +7,7 @@
     "Password_Usr": "0920319639",
     "Status_Usr": "New",
     "Vendedor_Usr": "Ralf Store",
-    "Id_Vendedor": "00002",
+    "Id_Vendedor": "RAFAELITO",
     "Type_User": "estandar"
     },
     {
@@ -38,7 +38,7 @@
     "Password_Usr": "1234",
     "Status_Usr": "Old",
     "Vendedor_Usr": "Birito Store",
-    "Id_Vendedor": "00002",
+    "Id_Vendedor": "BIRITO",
     "Type_User": "estandar"
     },
     {
@@ -69,7 +69,7 @@
     "Password_Usr": "1234",
     "Status_Usr": "Old",
     "Vendedor_Usr": "Eva Store",
-    "Id_Vendedor": "00002",
+    "Id_Vendedor": "BIRITO",
     "Type_User": "estandar"
     },
     {

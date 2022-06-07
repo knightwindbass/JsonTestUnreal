@@ -177,7 +177,7 @@
 		"Se puede RPI?": false,
 		"Nombre items RPI": "NSLOCTEXT(\"[15242FB542297710B5D051B471FDA51E]\", \"842A3F3F4809EE5218686C8BE9FDBAA2\", \"AzucarRPI\")",
 		"Cantidad Portales RPI": 4,
-		"Esta Disponible?": true,
+		"Esta Disponible?": false,
 		"Cantidad en Bodega": 30,
 		"CantidadMaxparainicarCanje": 25,
 		"MallaEstatica": "None"

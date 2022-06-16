@@ -37,14 +37,8 @@
     "actividades": [
     "dormir",
     "trabajar",
-    "gym",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none"
+    "ejercitarse",
+    "estudiar"
     ]
     }
   ],
@@ -179,7 +173,7 @@
     "dormir",
     "trabajar",
     "cocina",
-    "none"
+    "bailar"
     ]
     }
   ]

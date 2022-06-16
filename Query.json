@@ -32,6 +32,19 @@
     "none",
     "none"
     ]
+    },
+    "listaactividades": [
+    "dormir",
+    "trabajar",
+    "gym",
+    "none",
+    "none",
+    "none",
+    "none",
+    "none",
+    "none",
+    "none"
+    ]
     }
   ],
   "leafar": [
@@ -57,6 +70,19 @@
     "leafar",
     "galo",
     "none",
+    "none",
+    "none",
+    "none",
+    "none",
+    "none",
+    "none",
+    "none"
+    ]
+    },
+    "listaactividades": [
+    "dormir",
+    "trabajar",
+    "gym",
     "none",
     "none",
     "none",
@@ -98,6 +124,19 @@
     "none",
     "none"
     ]
+    },
+    "listaactividades": [
+    "dormir",
+    "trabajar",
+    "gym",
+    "none",
+    "none",
+    "none",
+    "none",
+    "none",
+    "none",
+    "none"
+    ]
     }
   ],
     "yaja": [
@@ -123,6 +162,19 @@
     "leafar",
     "knightwindbass",
     "none",
+    "none",
+    "none",
+    "none",
+    "none",
+    "none",
+    "none",
+    "none"
+    ]
+    },
+    "listaactividades": [
+    "dormir",
+    "trabajar",
+    "cocina",
     "none",
     "none",
     "none",

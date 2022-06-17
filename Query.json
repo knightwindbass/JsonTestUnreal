@@ -1,196 +1,4 @@
-{
-  "Usuarios":  [
-  {	
-  "knightwindbass": [
-    {
-    "Nombre_Usr": "Byron Saavedra",
-    "Password_Usr": "0920319639",
-    "Status_Usr": "New",
-    "Vendedor_Usr": "Ralf Store",
-    "Id_Vendedor": "RAFAELITO",
-    "Type_User": "estandar"
-    },
-    {
-    "Id_Profile_behaivor": "1",
-    "Id_Custom_head": 1,
-    "Id_Cst_hd_acc": 1,
-    "Id_Custom_body": 1,
-    "Id_Custom_pants": 1,
-    "Id_Custom_boots": 1,
-    "Id_Custom_pet": 1
-    },
-    {
-   "listaamigos": [
-    "leafar",
-    "yaja",
-    "galo",
-    "eva",
-    "daniel",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none"
-    ]
-    },
-    {
-    "actividades": [
-    "dormir",
-    "trabajar",
-    "ejercitarse",
-    "estudiar"
-    ]
-    }
-  ],
-  "leafar": [
-    {
-    "Nombre_Usr": "Rafael Saavedra",
-    "Password_Usr": "1234",
-    "Status_Usr": "Old",
-    "Vendedor_Usr": "Birito Store",
-    "Id_Vendedor": "BIRITO",
-    "Type_User": "estandar"
-    },
-    {
-    "Id_Profile_behaivor": "1",
-    "Id_Custom_head": 1,
-    "Id_Cst_hd_acc": 1,
-    "Id_Custom_body": 1,
-    "Id_Custom_pants": 1,
-    "Id_Custom_boots": 1,
-    "Id_Custom_pet": 1
-    },
-    {
-   "listaamigos": [
-    "leafar",
-    "galo",
-    "eva",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none"
-    ]
-    },
-    {
-    "actividades": [
-    "dormir",
-    "trabajar",
-    "gym",
-    "none"
-    ]
-    }
-  ],
-    "galo": [
-    {
-    "Nombre_Usr": "Galo Saavedra",
-    "Password_Usr": "1234",
-    "Status_Usr": "Old",
-    "Vendedor_Usr": "Eva Store",
-    "Id_Vendedor": "BIRITO",
-    "Type_User": "estandar"
-    },
-    {
-    "Id_Profile_behaivor": "1",
-    "Id_Custom_head": 1,
-    "Id_Cst_hd_acc": 1,
-    "Id_Custom_body": 1,
-    "Id_Custom_pants": 1,
-    "Id_Custom_boots": 1,
-    "Id_Custom_pet": 1
-    },
-    {
-   "listaamigos": [
-    "leafar",
-    "eva",
-    "josue",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none"
-    ]
-    },
-      {
-    "actividades": [
-    "dormir",
-    "trabajar",
-    "gym",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none"
-    ]
-    }
-  ],
-    "yaja": [
-    {
-    "Nombre_Usr": "Yajaira Duarte",
-    "Password_Usr": "1234",
-    "Status_Usr": "Old",
-    "Vendedor_Usr": "Galo Store",
-    "Id_Vendedor": "BIRITO",
-    "Type_User": "estandar"
-    },
-    {
-    "Id_Profile_behaivor": "Jaddek",
-    "Id_Custom_head": 1,
-    "Id_Cst_hd_acc": 1,
-    "Id_Custom_body": 1,
-    "Id_Custom_pants": 1,
-    "Id_Custom_boots": 1,
-    "Id_Custom_pet": 1
-    },
-    {
-    "listaamigos": [
-    "leafar",
-    "knightwindbass",
-    "galo",
-    "eva",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none"
-    ]
-    },
-      {
-    "actividades": [
-    "dormir",
-    "trabajar",
-    "cocinar",
-    "bailar"
-    ]
-    }
-  ],
-   "daniel": [
-    {
-    "Nombre_Usr": "Danielito",
-    "Password_Usr": "1234",
-    "Status_Usr": "Old",
-    "Vendedor_Usr": "Josue Store",
-    "Id_Vendedor": "BIRITO",
-    "Type_User": "estandar"
-    },
-    {
-    "Id_Profile_behaivor": "Jaddek",
-    "Id_Custom_head": 1,
-    "Id_Cst_hd_acc": 1,
-    "Id_Custom_body": 1,
-    "Id_Custom_pants": 1,
-    "Id_Custom_boots": 1,
-    "Id_Custom_pet": 1
-    },
-    {
-    "listaamigos": [ {
+ {
   "Usuarios":  [
   {	
   "knightwindbass": [
@@ -267,8 +75,7 @@
     "actividades": [
     "dormir",
     "trabajar",
-    "gym",
-    "none"
+    "gym"
     ]
     }
   ],
@@ -293,7 +100,6 @@
     {
    "listaamigos": [
     "leafar",
-    "eva",
     "josue"
     ]
     },
@@ -307,14 +113,7 @@
     "actividades": [
     "dormir",
     "trabajar",
-    "gym",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none",
-    "none"
+    "gym"
     ]
     }
   ],
@@ -377,8 +176,7 @@
     {
     "listaamigos": [
     "leafar",
-    "knightwindbass",
-    "none"
+    "knightwindbass"
     ]
     },
     {
@@ -417,8 +215,7 @@
     {
     "listaamigos": [
     "galo",
-    "knightwindbass",
-    "none"
+    "knightwindbass"
     ]
     },
      {
@@ -442,56 +239,3 @@
 
 ]
 }
-    "leafar",
-    "knightwindbass",
-    "none"
-    ]
-    },
-    {
-    "actividades": [
-    "dormir",
-    "trabajar",
-    "cocinar",
-    "construccion",
-    "ejercitarse"
-    ],
-   "josue": [
-    {
-    "Nombre_Usr": "Josuecito",
-    "Password_Usr": "1234",
-    "Status_Usr": "Old",
-    "Vendedor_Usr": "Licita Store",
-    "Id_Vendedor": "BIRITO",
-    "Type_User": "estandar"
-    },
-    {
-    "Id_Profile_behaivor": "Jaddek",
-    "Id_Custom_head": 1,
-    "Id_Cst_hd_acc": 1,
-    "Id_Custom_body": 1,
-    "Id_Custom_pants": 1,
-    "Id_Custom_boots": 1,
-    "Id_Custom_pet": 1
-    },
-    {
-    "listaamigos": [
-    "galo",
-    "knightwindbass",
-    "none"
-    ]
-    },
-    {
-    "actividades": [
-    "dormir",
-    "trabajar",
-    "cocinar",
-    "herreria",
-    "ejercitarse"
-    ]
-     
-    }
-  ]
-}
-
-]
-}]} 

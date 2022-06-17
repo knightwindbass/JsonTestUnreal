@@ -74,9 +74,14 @@
     {
     "actividades": [
     "dormir",
-    "trabajar",
-    "gym"
-    ]
+    "descansar",
+    "ludico",
+     "cocinar",
+     "trabajar",
+     "ejercitarse",
+     "cultivar",
+     "construccion"
+     ]
     }
   ],
     "galo": [

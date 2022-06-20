@@ -94,7 +94,7 @@
     "Type_User": "estandar"
     },
     {
-    "Id_Profile_behaivor": "1",
+    "Id_Profile_behaivor": "DAFGI3",
     "Id_Custom_head": 1,
     "Id_Cst_hd_acc": 1,
     "Id_Custom_body": 1,
@@ -117,8 +117,13 @@
       {
     "actividades": [
     "dormir",
-    "trabajar",
-    "gym"
+     "descansar",
+     "ludico",
+     "musica",
+    "ejercitarse",
+    "lectura",
+     "cultivar",
+     "agricultor"
     ]
     }
   ],

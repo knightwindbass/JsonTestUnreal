@@ -1,4 +1,4 @@
- {
+  {
   "Usuarios":  [
   {	
   "knightwindbass": [
@@ -8,16 +8,18 @@
     "Status_Usr": "New",
     "Vendedor_Usr": "Ralf Store",
     "Id_Vendedor": "RAFAELITO",
-    "Type_User": "estandar"
-    },
-    {
-    "Id_Profile_behaivor": "Bachedk1",
+    "Type_User": "estandar",
     "Id_Custom_head": 1,
     "Id_Cst_hd_acc": 1,
     "Id_Custom_body": 1,
     "Id_Custom_pants": 1,
     "Id_Custom_boots": 1,
     "Id_Custom_pet": 1
+    },
+    {
+    "Id_Profile_behaivor": 
+      ["Bachedk1"
+        ]
     },
     {
    "listaamigos": [
@@ -48,16 +50,19 @@
     "Status_Usr": "Old",
     "Vendedor_Usr": "Birito Store",
     "Id_Vendedor": "BIRITO",
-    "Type_User": "estandar"
-    },
-    {
-    "Id_Profile_behaivor": "Bacha1",
-    "Id_Custom_head": 1,
+    "Type_User": "estandar",
+      "Id_Custom_head": 1,
     "Id_Cst_hd_acc": 1,
     "Id_Custom_body": 1,
     "Id_Custom_pants": 1,
     "Id_Custom_boots": 1,
     "Id_Custom_pet": 1
+    },
+    {
+    "Id_Profile_behaivor": [
+      "Bacha1",
+     "TrabajarConstruc"
+    ]
     },
     {
    "listaamigos": [
@@ -91,16 +96,19 @@
     "Status_Usr": "Old",
     "Vendedor_Usr": "Eva Store",
     "Id_Vendedor": "BIRITO",
-    "Type_User": "estandar"
-    },
-    {
-    "Id_Profile_behaivor": "DAFGI3",
-    "Id_Custom_head": 1,
+    "Type_User": "estandar",
+      "Id_Custom_head": 1,
     "Id_Cst_hd_acc": 1,
     "Id_Custom_body": 1,
     "Id_Custom_pants": 1,
     "Id_Custom_boots": 1,
     "Id_Custom_pet": 1
+    },
+    {
+    "Id_Profile_behaivor": [
+      "DAFGI3",
+     "TrabajarAgric"
+    ]
     },
     {
    "listaamigos": [
@@ -134,16 +142,18 @@
     "Status_Usr": "Old",
     "Vendedor_Usr": "Galo Store",
     "Id_Vendedor": "BIRITO",
-    "Type_User": "estandar"
-    },
-    {
-    "Id_Profile_behaivor": "Jaddek",
-    "Id_Custom_head": 1,
+    "Type_User": "estandar",
+      "Id_Custom_head": 1,
     "Id_Cst_hd_acc": 1,
     "Id_Custom_body": 1,
     "Id_Custom_pants": 1,
     "Id_Custom_boots": 1,
     "Id_Custom_pet": 1
+    },
+    {
+    "Id_Profile_behaivor": [
+      "Jaddek"
+    ]
     },
     {
     "listaamigos": [
@@ -172,16 +182,18 @@
     "Status_Usr": "Old",
     "Vendedor_Usr": "Josue Store",
     "Id_Vendedor": "BIRITO",
-    "Type_User": "estandar"
-    },
-    {
-    "Id_Profile_behaivor": "Jaddek",
+    "Type_User": "estandar",
     "Id_Custom_head": 1,
     "Id_Cst_hd_acc": 1,
     "Id_Custom_body": 1,
     "Id_Custom_pants": 1,
     "Id_Custom_boots": 1,
     "Id_Custom_pet": 1
+    },
+    {
+    "Id_Profile_behaivor": [
+      "Jaddek"
+    ]
     },
     {
     "listaamigos": [
@@ -211,16 +223,18 @@
     "Status_Usr": "Old",
     "Vendedor_Usr": "Licita Store",
     "Id_Vendedor": "BIRITO",
-    "Type_User": "estandar"
-    },
-    {
-    "Id_Profile_behaivor": "Jaddek",
+    "Type_User": "estandar",
     "Id_Custom_head": 1,
     "Id_Cst_hd_acc": 1,
     "Id_Custom_body": 1,
     "Id_Custom_pants": 1,
     "Id_Custom_boots": 1,
     "Id_Custom_pet": 1
+    },
+    {
+    "Id_Profile_behaivor": [
+      "Jaddek"
+    ]
     },
     {
     "listaamigos": [

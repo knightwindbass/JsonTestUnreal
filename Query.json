@@ -106,8 +106,10 @@
     },
     {
     "Id_Profile_behaivor": [
-      "DAFGI3",
-     "TrabajarAgric"
+      "DespertarTemprano",
+     "TrabajarAgric",
+      "DormirTemprano"
+      
     ]
     },
     {

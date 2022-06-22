@@ -61,8 +61,8 @@
     {
     "Id_Profile_behaivor": [
       "DespertarTemprano",
-     "TrabajarAgric",
-      "Regresar",
+     "TrabajarConstruc",
+      "Deambular",
       "DormirTemprano"
     ]
     },
@@ -110,7 +110,7 @@
     "Id_Profile_behaivor": [
       "DespertarTemprano",
      "TrabajarAgric",
-      "Regresar",
+      "Deambular",
       "DormirTemprano"
       
     ]

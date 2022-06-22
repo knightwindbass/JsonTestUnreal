@@ -60,8 +60,10 @@
     },
     {
     "Id_Profile_behaivor": [
-      "Bacha1",
-     "TrabajarConstruc"
+      "DespertarTemprano",
+     "TrabajarAgric",
+      "Regresar",
+      "DormirTemprano"
     ]
     },
     {

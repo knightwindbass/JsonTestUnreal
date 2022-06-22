@@ -18,7 +18,12 @@
     },
     {
     "Id_Profile_behaivor": 
-      ["Bachedk1"
+      [  
+        "DespertarTarde",
+     "T_Agricola_Tarde",
+      "E_Deambular_Temprano",
+        "E_Bailar_Tarde",
+      "DormirTarde"
         ]
     },
     {
@@ -39,6 +44,7 @@
     "dormir",
     "trabajar",
     "ejercitarse",
+    "bailar",
     "estudiar"
     ]
     }
@@ -61,9 +67,10 @@
     {
     "Id_Profile_behaivor": [
       "DespertarTemprano",
-     "TrabajarConstruc",
-      "Deambular",
-      "DormirTemprano"
+     "T_Construccion_Temprano",
+      "E_Deambular_Temprano",
+      "DormirTemprano",
+      "T_Ejercitarse_AO"
     ]
     },
     {
@@ -108,11 +115,11 @@
     },
     {
     "Id_Profile_behaivor": [
-      "DespertarTemprano",
-     "TrabajarAgric",
-      "Deambular",
-      "DormirTemprano"
-      
+       "DespertarTemprano",
+     "T_Construccion_Temprano",
+      "E_Deambular_Temprano",
+      "DormirTemprano",
+      "T_Ejercitarse_AO" 
     ]
     },
     {
@@ -157,7 +164,11 @@
     },
     {
     "Id_Profile_behaivor": [
-      "Jaddek"
+      "DespertarTemprano",
+     "T_Construccion_Temprano",
+      "E_Deambular_Temprano",
+      "DormirTemprano",
+      "T_Ejercitarse_AO" 
     ]
     },
     {
@@ -197,7 +208,11 @@
     },
     {
     "Id_Profile_behaivor": [
-      "Jaddek"
+      "DespertarTarde",
+     "T_Agricola_Tarde",
+      "E_Deambular_Temprano",
+        "E_Bailar_Tarde",
+      "DormirTarde"
     ]
     },
     {
@@ -238,7 +253,11 @@
     },
     {
     "Id_Profile_behaivor": [
-      "Jaddek"
+      "DespertarTarde",
+     "T_Agricola_Tarde",
+      "E_Deambular_Temprano",
+        "E_Bailar_Tarde",
+      "DormirTarde"
     ]
     },
     {

@@ -241,9 +241,9 @@
     ]
     }
   ],
-   "josue": [
+   "Evita": [
     {
-    "Nombre_Usr": "Josuecito",
+    "Nombre_Usr": "Eva",
     "Password_Usr": "1234",
     "Status_Usr": "Old",
     "Vendedor_Usr": "Licita Store",
@@ -280,8 +280,10 @@
     {
     "actividades": [
     "dormir",
+      "ludico",
     "trabajar",
     "cocinar",
+      "cultivar",
     "herreria",
     "ejercitarse"
     ]

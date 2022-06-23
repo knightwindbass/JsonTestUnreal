@@ -116,10 +116,9 @@
     {
     "Id_Profile_behaivor": [
        "DespertarTemprano",
-     "T_Construccion_Temprano",
+     "T_Agricola_Temprano",
       "E_Deambular_Temprano",
-      "DormirTemprano",
-      "T_Ejercitarse_AO" 
+      "DormirTemprano"
     ]
     },
     {
@@ -188,6 +187,7 @@
     "dormir",
     "trabajar",
     "cocinar",
+    "construccion",
     "bailar"
     ]
     }

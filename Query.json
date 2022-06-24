@@ -28,15 +28,15 @@
     },
     {
    "listaamigos": [
-    "leafar",
-    "galo",
-    "daniel"
+    "Leafar",
+    "Galo",
+    "Daniel"
     ]
     },
     {
     "listaamigas": [
-    "yaja",
-    "eva"
+    "Yaja",
+    "Eva"
     ]
     },
     {
@@ -49,7 +49,7 @@
     ]
     }
   ],
-  "leafar": [
+  "Leafar": [
     {
     "Nombre_Usr": "Rafael Saavedra",
     "Password_Usr": "1234",
@@ -76,13 +76,13 @@
     {
    "listaamigos": [
     "knightwindbass",
-    "galo"
+    "Galo"
     ]
     },
     {
     "listaamigas": [
-    "yaja",
-    "eva"
+    "Yaja",
+    "Eva"
     ]
     },
     {
@@ -98,9 +98,9 @@
      ]
     }
   ],
-    "galo": [
+    "Galo": [
     {
-    "Nombre_Usr": "Galo Saavedra",
+    "Nombre_Usr": "galo",
     "Password_Usr": "1234",
     "Status_Usr": "Old",
     "Vendedor_Usr": "Eva Store",
@@ -123,14 +123,14 @@
     },
     {
    "listaamigos": [
-    "leafar",
-    "josue"
+    "Leafar",
+    "Josue"
     ]
     },
       {
     "listaamigas": [
-    "yaja",
-    "eva"
+    "Yaja",
+    "Eva"
     ]
     },
       {
@@ -147,7 +147,7 @@
     ]
     }
   ],
-    "yaja": [
+    "Yaja": [
     {
     "Nombre_Usr": "Yajaira Duarte",
     "Password_Usr": "1234",
@@ -173,13 +173,13 @@
     },
     {
     "listaamigos": [
-    "leafar",
+    "Leafar",
     "knightwindbass",
-    "galo"
+    "Galo"
     ]
     },{
     "listaamigas": [
-    "eva"
+    "Eva"
     ]
     },
       {
@@ -193,7 +193,7 @@
     ]
     }
   ],
-   "daniel": [
+   "Daniel": [
     {
     "Nombre_Usr": "Danielito",
     "Password_Usr": "1234",
@@ -219,7 +219,7 @@
     },
     {
     "listaamigos": [
-    "leafar",
+    "Leafar",
     "knightwindbass"
     ]
     },
@@ -241,7 +241,7 @@
     ]
     }
   ],
-   "Evita": [
+   "Eva": [
     {
     "Nombre_Usr": "Eva",
     "Password_Usr": "1234",
@@ -267,7 +267,7 @@
     },
     {
     "listaamigos": [
-    "galo",
+    "Galo",
     "knightwindbass"
     ]
     },

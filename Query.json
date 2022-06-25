@@ -118,7 +118,8 @@
        "DespertarTemprano",
      "T_Agricola_Temprano",
       "E_Deambular_Temprano",
-      "DormirTemprano"
+       "E_Bailar_Tarde",
+      "DormirTarde"
     ]
     },
     {
@@ -139,6 +140,7 @@
      "descansar",
      "ludico",
      "musica",
+      "bailar",
     "ejercitarse",
     "lectura",
      "cultivar",
@@ -213,8 +215,7 @@
       "DespertarTarde",
      "T_Agricola_Tarde",
       "E_Deambular_Temprano",
-        "E_Bailar_Tarde",
-      "DormirTarde"
+       "DormirTarde"
     ]
     },
     {

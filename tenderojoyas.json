@@ -15,7 +15,7 @@
 		"Se puede RPI?": true,
 		"Nombre items RPI": "NSLOCTEXT(\"[15242FB542297710B5D051B471FDA51E]\", \"A33CD9694CA830A17D802B8B7F71811D\", \"ManzanaRPI\")",
 		"Cantidad Portales RPI": 1,
-		"Esta Disponible?": false,
+		"Esta Disponible?": true,
 		"Cantidad en Bodega": 50,
 		"CantidadMaxparainicarCanje": 15,
 		"MallaEstatica": "StaticMesh'/Game/Megascans/3D_Assets/Red_Apple_tgzoahbpa/S_Red_Apple_tgzoahbpa_lod3.S_Red_Apple_tgzoahbpa_lod3'"

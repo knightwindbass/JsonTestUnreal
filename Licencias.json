@@ -1,0 +1,15 @@
+{
+  "SOFTWARE": [
+    {
+      "ASISTENTES": [
+        {
+          "LICENCIA": "DINATEK",
+          "Categoria": "Asistentes Virtuales",
+          "Actualizacion": true,
+          "Esta_Disponible": true,
+          "VIGENCIA": 15
+        }
+      ]
+    }
+  ]
+}

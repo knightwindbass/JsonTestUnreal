@@ -4,9 +4,10 @@
       "ASISTENTES": [
         {
           "LICENCIA": "DINATEK",
-          "VERSION": "PRE-ALFA",
-          "Actualizacion": true,
+          "VERSION": "ALFA",
+          "Actualizacion": false,
           "Esta_Disponible": true,
+          "VERSIONACTUAL": "PRE-ALFA",
           "VIGENCIA": 15
         }
       ]

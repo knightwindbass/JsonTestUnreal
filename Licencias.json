@@ -9,8 +9,18 @@
           "Esta_Disponible": true,
           "VERSIONACTUAL": "PRE-ALFA",
           "VIGENCIA": 15
+        },
+         {
+      "GARZAROJA": [
+        {
+          "LICENCIA": "PRUEBAS",
+          "VERSION": "ALFA",
+          "Actualizacion": true,
+          "Esta_Disponible": true,
+          "VERSIONACTUAL": "PRE-ALFA",
+          "VIGENCIA": 15
         }
       ]
     }
   ]
-}
+}]}

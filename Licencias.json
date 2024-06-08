@@ -9,8 +9,10 @@
           "Esta_Disponible": true,
           "VERSIONACTUAL": "PRE-ALFA",
           "VIGENCIA": 15
-        },
-         {
+        }
+      ]
+    },
+    {
       "GARZAROJA": [
         {
           "LICENCIA": "PRUEBAS",
@@ -23,4 +25,4 @@
       ]
     }
   ]
-}]}
+}

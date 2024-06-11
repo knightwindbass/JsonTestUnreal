@@ -7,23 +7,25 @@
             {
               "DINATEK": [
                 {
-                  "FACEBOOK": [{
-                    "ANALISTA": "Dinatek Maquinaria. La información disponible públicamente indica que el facebook de Dinatek como recurso digital no se encuentra disponible, aún no se detectan publicaciones ni contenidos nuevos en redes, el personal responsable de la administración de este recurso debe considerar retomar la actividad. Adicionalmente se pudo observar que a finales del año 2017 fue creado un recurso digital con el nombre de Dinatek Sucursal Machala, el cual recibió atención en publicaciones y contenidos hasta el 19 de junio del 2018.",
-                    "Seguidores": 14000,
-                    "Tasa_hombres": 0,
-                    "Tasa_mujeres": 0,
-                    "Interacciones": 0,
-                    "Alcance": 0,
-                    "Nuevos_seguidores": 0,
-                    "Nuevos_me_gusta": 0,
-                    "Clics_enlaces": 0,
-                    "Publicaciones": 0,
-                    "Alcance_Organico": 0,
-                    "Alcance_Anuncios": 0,
-                    "Visitas_Facebook": 0
-                                      
-                    
-                  }]},
+                  "FACEBOOK": {
+                    "ANALISTA": "Dinatek Maquinaria. La información disponible públicamente indica que el Facebook de Dinatek como recurso digital no se encuentra disponible, aún no se detectan publicaciones ni contenidos nuevos en redes, el personal responsable de la administración de este recurso debe considerar retomar la actividad. Adicionalmente se pudo observar que a finales del año 2017 fue creado un recurso digital con el nombre de Dinatek Sucursal Machala, el cual recibió atención en publicaciones y contenidos hasta el 19 de junio del 2018.",
+                    "INDICADORES": [{
+                    "Nombre": "Dinatek",
+                      "Seguidores": 14000,
+                      "Tasa_hombres": 0,
+                      "Tasa_mujeres": 0,
+                      "Interacciones": 0,
+                      "Alcance": 0,
+                      "Nuevos_seguidores": 0,
+                      "Nuevos_me_gusta": 0,
+                      "Clics_enlaces": 0,
+                      "Publicaciones": 0,
+                      "Alcance_Organico": 0,
+                      "Alcance_Anuncios": 0,
+                      "Visitas_Facebook": 0
+                    }]
+                  }
+                },
                   {
                   "INSTAGRAM": [{
                      "ANALISTA": "El siguiente cuadro nos permite observar el estado actual del recurso digital creado en Instagram, sus contenidos y alcance. Se puede observar que la frecuencia de publicaciones tuvo fluctuaciones, en la actualidad se añadieron 2 publicaciones para este periodo. Recomendación: Si bien el uso del recurso digital está retomándose, sería lo más apropiado que el personal de marketing observe si se están implementando campañas pagadas vía Meta business; ya que la cantidad de interacciones por publicación, hace suponer que el alcance es exclusivamente orgánico y limitado.",
